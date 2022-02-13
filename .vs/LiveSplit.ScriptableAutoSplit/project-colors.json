@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56e9d96b-5944-4c2e-876b-cba44b1465ac": {
+      "ProjectGuid": "56e9d96b-5944-4c2e-876b-cba44b1465ac",
+      "DisplayName": "LiveSplit.ScriptableAutoSplit",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1eda46ab-674e-48ca-a6d5-d5938ce64a55": {
+      "ProjectGuid": "1eda46ab-674e-48ca-a6d5-d5938ce64a55",
+      "DisplayName": "LiveSplit.LeanCore",
+      "ColorIndex": 1
+    },
+    "a46cb8bc-71eb-4acf-a2b8-f7170742af45": {
+      "ProjectGuid": "a46cb8bc-71eb-4acf-a2b8-f7170742af45",
+      "DisplayName": "AutoSplitterLSP.LeanParserAndCompiler",
+      "ColorIndex": 2
+    },
+    "7f3e7c53-20d9-40c7-85af-26e141cd4551": {
+      "ProjectGuid": "7f3e7c53-20d9-40c7-85af-26e141cd4551",
+      "DisplayName": "AutoSplitterLSP.Core",
+      "ColorIndex": 3
+    },
+    "115c2b35-9a2f-4518-8844-09c750ebcc89": {
+      "ProjectGuid": "115c2b35-9a2f-4518-8844-09c750ebcc89",
+      "DisplayName": "AutoSplitterLSP.Server",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
